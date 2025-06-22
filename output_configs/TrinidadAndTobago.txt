@@ -1,2 +1,2 @@
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.149:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.149:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@202.84.53.85:19999?encryption=none&security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@202.84.53.85:19999?encryption=none&security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
