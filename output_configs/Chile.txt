@@ -1,0 +1,6 @@
+ss://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:80?path=%2Fvless%2F&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇱%20CL%20201ms
+ss://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇱%20CL%20192ms
+ss://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇱%20CL%20down
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:80?path=%2Fvless%2F&encryption=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇱%20CL%20201ms
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇱%20CL%20192ms
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇱%20CL%20down

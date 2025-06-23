@@ -1,1 +1,2 @@
-ss://f5a45265362049ff98b9a862d5f3a09dOg==@arabia.arcanpayer.com:36729#SA%F0%9F%87%B8%F0%9F%87%A6+%7C+arabia.arcanpayer.com-36729+%7C+256.55ms
+ss://9daa611d-cd8c-4b18-b0e8-e3905ee8d2e2@arabia.arcanpayer.com:12871?type=tcp&security=reality&pbk=0HG2YEhE36GUu3wqRBLEvGfINpzBXJkJ2NwZeAl4BUY&fp=chrome&sni=canva.com&sid=a2029f7a&spx=%2F#REALITY|SA🇸🇦
+vless://9daa611d-cd8c-4b18-b0e8-e3905ee8d2e2@arabia.arcanpayer.com:12871?type=tcp&security=reality&pbk=0HG2YEhE36GUu3wqRBLEvGfINpzBXJkJ2NwZeAl4BUY&fp=chrome&sni=canva.com&sid=a2029f7a&spx=%2F#REALITY|SA🇸🇦
