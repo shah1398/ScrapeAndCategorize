@@ -1,4 +1,4 @@
 ss://69fe35a8-c6c7-4fc5-b671-847d51bac5dc@panel.liveito.xyz:41606?security=none&encryption=none&headerType=none&type=tcp#mige%20srv%20tr%20ba%20Asautech%20ho3ein
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.74.228.20:8880#BA%F0%9F%87%A7%F0%9F%87%A6+%7C+77.74.228.20-8880+%7C+1.44ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.74.228.20:8880#BA%F0%9F%87%A7%F0%9F%87%A6+%7C+77.74.228.20-8880+%7C+8.92ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.74.228.20:8880#BA%F0%9F%87%A7%F0%9F%87%A6+%7C+77.74.228.20-8880+%7C+1.9ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.74.228.20:8880#BA%F0%9F%87%A7%F0%9F%87%A6+%7C+77.74.228.20-8880+%7C+2.07ms
 vless://69fe35a8-c6c7-4fc5-b671-847d51bac5dc@panel.liveito.xyz:41606?security=none&encryption=none&headerType=none&type=tcp#mige%20srv%20tr%20ba%20Asautech%20ho3ein

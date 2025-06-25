@@ -1,2 +1,0 @@
-ss://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&type=tcp&host=canva.com&headerType=http#🆔configfa%20🔓%20VL-TCP-N/A%20🇸🇦%20SA%20down
-vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&type=tcp&host=canva.com&headerType=http#🆔configfa%20🔓%20VL-TCP-N/A%20🇸🇦%20SA%20down

@@ -1,2 +1,1 @@
-ss://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#CL🇨🇱
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@pq.chile1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#CL🇨🇱
+ss://YWVzLTI1Ni1nY206MU5ETjk1TDdRNlVOWUpSNA==@37.143.128.125:20012#%F0%9F%87%A8%F0%9F%87%B1CL-37.143.128.125-0585
