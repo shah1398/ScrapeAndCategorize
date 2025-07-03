@@ -1,0 +1,2 @@
+ss://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security=reality&encryption=none&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&headerType=none&fp=chrome&spx=%2F2JhYDrpVcIa4da5&type=tcp&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&sid=5660c4#REALITY|GE🇬🇪
+vless://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security=reality&encryption=none&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&headerType=none&fp=chrome&spx=%2F2JhYDrpVcIa4da5&type=tcp&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&sid=5660c4#REALITY|GE🇬🇪
