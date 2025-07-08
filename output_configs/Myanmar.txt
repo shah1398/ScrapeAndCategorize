@@ -1,2 +1,0 @@
-ss://a24832dc-1a14-40d3-f6a5-31a05f2a271a@91.99.173.28:22480?type=ws&path=%2F&host=&security=none#mm-%D8%AA%D8%B3%D8%AA
-vless://a24832dc-1a14-40d3-f6a5-31a05f2a271a@91.99.173.28:22480?type=ws&path=%2F&host=&security=none#mm-%D8%AA%D8%B3%D8%AA
