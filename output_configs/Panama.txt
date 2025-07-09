@@ -1,2 +1,0 @@
-ss://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=tcp&path=%2F&host=uplod.ir&headerType=http&security=none#PA%2BVPN-%40PARSAVPNN
-vless://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=tcp&path=%2F&host=uplod.ir&headerType=http&security=none#PA%2BVPN-%40PARSAVPNN
