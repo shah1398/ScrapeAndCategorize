@@ -1,0 +1,2 @@
+ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.13:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🆔configshubplus%20🔒%20VL-GRPC-N/A%20🇰🇭%20KH%202ms
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.13:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🆔configshubplus%20🔒%20VL-GRPC-N/A%20🇰🇭%20KH%202ms
