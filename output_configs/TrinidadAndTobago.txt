@@ -1,1 +1,1 @@
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8301?security=tls&sni=hk-1-560.flztjc.net&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443?security=tls&sni=EeEeeD.459.pp.uA&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
