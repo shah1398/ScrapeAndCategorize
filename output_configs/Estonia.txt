@@ -1,7 +1,7 @@
 ss://665f22b8-167a-50df-a941-981d38bfdfca@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://665f22b8-167a-50df-a941-981d38bfdfca@www.speedtest.net:443?security=tls&sni=ee-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eUFZbU1WYm1MQzVKekM0T3hwRDdt@213.111.181.38:8443#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇪🇪%20EE%20122ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+188.214.36.155-990+%7C+174.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+188.214.36.155-990+%7C+126.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇪🇪%20EE%20122ms
 ss://c7150d62-8775-44ef-9bfa-d4755961427a@93.123.39.31:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#REALITY|EE🇪🇪
 vless://665f22b8-167a-50df-a941-981d38bfdfca@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://665f22b8-167a-50df-a941-981d38bfdfca@www.speedtest.net:443?security=tls&sni=ee-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
