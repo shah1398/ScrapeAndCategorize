@@ -1,0 +1,2 @@
+ss://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&flow=&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇷%20CR%2017ms
+vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&flow=&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇷%20CR%2017ms
