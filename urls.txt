@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/10ium/V2rayCollector/main/mixed_iran.txt
 https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/normal/mix
 https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/location/base64/IR
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
+https://raw.githubusercontent.com/10ium/telegram-configs-collector/main/splitted/mixed
