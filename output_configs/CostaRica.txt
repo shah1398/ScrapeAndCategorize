@@ -1,2 +1,4 @@
-ss://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&flow=&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇷%20CR%2017ms
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&flow=&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇷%20CR%2017ms
+ss://3df93bd0-ae17-46db-92e5-90bff99762c0@190.93.245.101:2087?type=ws&security=tls&path=%2F&sni=cmp.danjun.ddns-ip.net&fp=chrome#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
+vless://3df93bd0-ae17-46db-92e5-90bff99762c0@190.93.245.101:2087?type=ws&security=tls&path=%2F&sni=cmp.danjun.ddns-ip.net&fp=chrome#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
