@@ -1,3 +1,9 @@
+ss://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&spx=%2F&type=tcp&headerType=none#REALITY|TW🇹🇼
 ss://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#REALITY|TW🇹🇼
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0381
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM3@tw.fastsoonlink.com:40020#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+tw.fastsoonlink.com-40020+%7C+328.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.2:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.2-2377+%7C+136.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.37:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.37-2377+%7C+136.82ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0394
+vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&spx=%2F&type=tcp&headerType=none#REALITY|TW🇹🇼
 vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#REALITY|TW🇹🇼
+vmess://ewogICAgImFkZCI6ICJzc3Nzc3Nzc3ZhZTIuamtoa2dqLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImZpbGUuZGluZ3RhbGsuY29tIiwKICAgICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbWFya2V0L2hrP2VkPTUxMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7nwn4e8VFctMTExLjI0Ny40MS4zNS0wOTkxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
