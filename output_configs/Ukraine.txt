@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+235.75ms
+ss://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
