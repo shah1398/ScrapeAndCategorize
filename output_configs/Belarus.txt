@@ -1,2 +1,6 @@
+ss://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#Powered%20By%20%40xzJinx%20%F0%9F%A9%B5%F0%9F%92%9C
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+ss://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?security=none&encryption=none&headerType=none&type=tcp#Powered%20By%20%40xzJinx%20%F0%9F%A9%B5%F0%9F%92%9C
+vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#Powered%20By%20%40xzJinx%20%F0%9F%A9%B5%F0%9F%92%9C
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?security=none&encryption=none&headerType=none&type=tcp#Powered%20By%20%40xzJinx%20%F0%9F%A9%B5%F0%9F%92%9C
