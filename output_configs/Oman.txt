@@ -1,4 +1,4 @@
-ss://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.5:443?type=xhttp&path=%2Fad&host=&mode=stream-one&security=none#🆔soskeynet%20🔓%20VL-XHTTP-N/A%20🇴🇲%20OM%20236ms
+ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#OM🇴🇲
 ss://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🆔vless_config%20🔓%20VL-WS-N/A%20🇴🇲%20OM%20down
-vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.5:443?type=xhttp&path=%2Fad&host=&mode=stream-one&security=none#🆔soskeynet%20🔓%20VL-XHTTP-N/A%20🇴🇲%20OM%20236ms
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#OM🇴🇲
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🆔vless_config%20🔓%20VL-WS-N/A%20🇴🇲%20OM%20down
