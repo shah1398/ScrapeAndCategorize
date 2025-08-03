@@ -1,0 +1,2 @@
+ss://a05954eb-e925-4e9b-a646-ad99453b88ba@free-il.vpnkey.dev:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=R1JvR_1QIAMppbG5HAXf4q82K9k3d3TwvFAb3RHZPgY&sni=google.com#VPNKEY-Israel
+vless://a05954eb-e925-4e9b-a646-ad99453b88ba@free-il.vpnkey.dev:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=R1JvR_1QIAMppbG5HAXf4q82K9k3d3TwvFAb3RHZPgY&sni=google.com#VPNKEY-Israel
