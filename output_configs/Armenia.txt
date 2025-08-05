@@ -1,14 +1,7 @@
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2Fam%402%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
 ss://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?security=&encryption=none&type=ws#🆔capoit%20🔓%20VL-WS-N/A%20🇦🇲%20AM%20down
-ss://66afa24a-d7a7-4522-bf3e-f56f283594f0@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20140ms
-ss://66afa24a-d7a7-4522-bf3e-f56f283594f0@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20141ms
-ss://91dbee3d-d990-4800-97e9-9a13055b2285@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20140ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k%3D@85.208.139.203:443#https://t.me/freevpn12340ChannelFrankfurt%20am%20Main%2C%20HE%2C%20Germ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20HE%2C%20Germany%20%287%29🤯
-ss://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54300?security=&encryption=none&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%20down
+ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#REALITY|AM🇦🇲
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2Fam%402%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
 vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?security=&encryption=none&type=ws#🆔capoit%20🔓%20VL-WS-N/A%20🇦🇲%20AM%20down
-vless://66afa24a-d7a7-4522-bf3e-f56f283594f0@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20140ms
-vless://66afa24a-d7a7-4522-bf3e-f56f283594f0@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20141ms
-vless://91dbee3d-d990-4800-97e9-9a13055b2285@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇲%20AM%20140ms
-vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54300?security=&encryption=none&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%20down
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#REALITY|AM🇦🇲
