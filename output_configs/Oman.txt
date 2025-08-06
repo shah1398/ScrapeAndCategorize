@@ -2,9 +2,7 @@ ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.16:443?mode=stream-one&path=
 ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#👉🆔@freenettir📡🇴🇲®️Oman©️Muscat🅿️ping:145.21ms
 ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#👉🆔@freenettir📡🇴🇲®️Oman©️Muscat🅿️ping:153.05ms
 ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#OM%F0%9F%87%B4%F0%9F%87%B238ms%20Ping%20%40vpnfreev2r%20TELEGRAM%20CHANNEL
-ss://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🆔vless_config%20🔓%20VL-WS-N/A%20🇴🇲%20OM%20down
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.16:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#OM%20%F0%9F%87%B4%F0%9F%87%B2%20%40vpnfreev2r%20TELEGRAM%20CHANNEL
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#👉🆔@freenettir📡🇴🇲®️Oman©️Muscat🅿️ping:145.21ms
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#👉🆔@freenettir📡🇴🇲®️Oman©️Muscat🅿️ping:153.05ms
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#OM%F0%9F%87%B4%F0%9F%87%B238ms%20Ping%20%40vpnfreev2r%20TELEGRAM%20CHANNEL
-vless://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🆔vless_config%20🔓%20VL-WS-N/A%20🇴🇲%20OM%20down

@@ -1,6 +1,7 @@
-ss://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.98.155-44013+%7C+130.27ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+94.228.165.178-58176+%7C+139.13ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0256
-trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&sni=x1-sweden-linode-v2-71u92.devefun.org#%F0%9F%87%B8%F0%9F%87%AASE-172.232.139.220-4953
-vless://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
+ss://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2010ms
+ss://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%203ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0261
+ss://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪
+vless://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2010ms
+vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%203ms
+vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪
