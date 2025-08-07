@@ -1,3 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+188.214.36.155-990+%7C+118.13ms
+ss://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=%2Fvless&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#🆔soskeynet%20🔒%20VL-WS-N/A%20🇪🇪%20EE%20138ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0%3D@80.209.239.158:53755#IRAN%20543%20ee
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+188.214.36.155-990+%7C+158.21ms
 ss://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=%2Fvless&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#🆔soskeynet%20🔒%20VL-WS-N/A%20🇪🇪%20EE%20138ms
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
