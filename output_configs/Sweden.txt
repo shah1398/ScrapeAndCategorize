@@ -1,10 +1,9 @@
-ss://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2015ms
 ss://Parsashonam-295@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2015ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+94.228.165.178-58176+%7C+156.06ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0258
+ss://Parsashonam-Bot-12@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2014ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40v2xay
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+94.228.165.178-58176+%7C+99.16ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0236
 ss://d6ccda57-9fba-4b34-8d9d-1cbd195f99fb@212.192.246.37:443?type=tcp&security=reality&pbk=jj3hJumlQW-h4fC0L_is4ZTFFiOu2uG5Eg6ICK5agk8&fp=firefox&sni=tgju.org&sid=de4c79a0&spx=%2F&flow=xtls-rprx-vision#REALITY|SE🇸🇪
-ss://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪
-vless://Parsashonam-293@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2015ms
 vless://Parsashonam-295@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2015ms
+vless://Parsashonam-Bot-12@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%2014ms
 vless://d6ccda57-9fba-4b34-8d9d-1cbd195f99fb@212.192.246.37:443?type=tcp&security=reality&pbk=jj3hJumlQW-h4fC0L_is4ZTFFiOu2uG5Eg6ICK5agk8&fp=firefox&sni=tgju.org&sid=de4c79a0&spx=%2F&flow=xtls-rprx-vision#REALITY|SE🇸🇪
-vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪

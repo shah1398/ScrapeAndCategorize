@@ -1,0 +1,2 @@
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=bitget1.asdasd.click#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇷%20CR%2014ms
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=bitget1.asdasd.click#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇷%20CR%2014ms
