@@ -1,3 +1,7 @@
-ss://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?security=reality&encryption=none&pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3549df188940fe#REALITY|BG🇧🇬
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG-37.19.203.147-0215
-vless://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?security=reality&encryption=none&pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3549df188940fe#REALITY|BG🇧🇬
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG-37.19.203.147-0308
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@147.78.140.3:8880?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegramU0001F1E8U0001F1F3#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%202ms
+ss://f27d849b-e965-4afa-ade6-139b76cca1ba@Bulgaria.mizbandana.org:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇬%20BG%20292ms
+ss://f27d849b-e965-4afa-ade6-139b76cca1ba@Bulgaria.mizbandana.org:700?security=&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇬%20BG%20286ms
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@147.78.140.3:8880?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegramU0001F1E8U0001F1F3#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%202ms
+vless://f27d849b-e965-4afa-ade6-139b76cca1ba@Bulgaria.mizbandana.org:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇬%20BG%20292ms
+vless://f27d849b-e965-4afa-ade6-139b76cca1ba@Bulgaria.mizbandana.org:700?security=&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇬%20BG%20286ms

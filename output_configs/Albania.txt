@@ -1,6 +1,3 @@
-ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=random&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#👉🆔@freenettir📡🇦🇱®️Albania©️Elbasan🅿️ping:15.22ms
-ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&fp=random&sni=pingless.com&sid=b6&spx=%2F&flow=xtls-rprx-vision#REALITY|AL🇦🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20%40v2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+93.123.46.84-8443+%7C+94.45ms
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=random&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#👉🆔@freenettir📡🇦🇱®️Albania©️Elbasan🅿️ping:15.22ms
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&fp=random&sni=pingless.com&sid=b6&spx=%2F&flow=xtls-rprx-vision#REALITY|AL🇦🇱
+ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+93.123.46.84-8443+%7C+146.69ms
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
