@@ -1,7 +1,7 @@
-ss://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20306ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+91.186.217.246-31764+%7C+119.88ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0277
-ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%2098ms
-vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20306ms
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%2098ms
-vmess://eyJhZGQiOiI2Mi42MC4xNTIuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRiZDliZWVjLTQ1MTktNGE3Yy1iNTliLTFlYTkyNTJlM2Y0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJTRVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSB8IDYyLjYwLjE1Mi4xNzAtMjAwODYgfCAxMDIuODdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+ss://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20307ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+89.22.234.121-443+%7C+154.68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+91.186.217.246-31764+%7C+176.12ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0215
+ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20307ms
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
