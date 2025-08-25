@@ -1,5 +1,9 @@
 ss://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=%2Fhqqprlws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&type=ws#CY🇨🇾
-ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+1.88ms
+ss://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#REALITY|CY🇨🇾
+ss://a351b0a4-6c4e-4456-8f8e-45db3fe0bcb2@85.208.110.203:443?security=reality&encryption=none&pbk=SUP3nblQDtku381iK83Nl0YXGXJw15sZYH-ilRRssAM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.samsung.com&sid=db7491a2#REALITY|CY🇨🇾
+ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+1.51ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=&encryption=none&type=grpc#CY🇨🇾
+ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
@@ -10,8 +14,6 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?type=grpc&mode=gun&
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
@@ -20,9 +22,12 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encryption
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
-ss://ec8a65adaafc40959b8cea10890ca629Og==@154.92.9.151:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+154.92.9.151-443+%7C+1.89ms
+ss://ec8a65adaafc40959b8cea10890ca629Og==@154.92.9.151:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+154.92.9.151-443+%7C+1.25ms
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=%2Fhqqprlws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&type=ws#CY🇨🇾
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#REALITY|CY🇨🇾
+vless://a351b0a4-6c4e-4456-8f8e-45db3fe0bcb2@85.208.110.203:443?security=reality&encryption=none&pbk=SUP3nblQDtku381iK83Nl0YXGXJw15sZYH-ilRRssAM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.samsung.com&sid=db7491a2#REALITY|CY🇨🇾
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=&encryption=none&type=grpc#CY🇨🇾
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
@@ -33,8 +38,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?type=grpc&mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
@@ -43,4 +46,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&encrypt
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#CY🇨🇾

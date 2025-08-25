@@ -1,6 +1,11 @@
-ss://VGhpcyBpcyBIRUxM@185.146.173.39:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&encryption=none&host=uss.sharkpv.ir&type=xhttp#🆔vless_config%20🔓%20VL-XHTTP-N/A%20🇸🇪%20SE%2014ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+121.127.46.147-989+%7C+106.56ms
+ss://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20244ms
+ss://VGhpcyBpcyBIRUxM@185.146.173.39:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&encryption=none&host=uss.sharkpv.ir&type=xhttp#🆔vless_config%20🔓%20VL-XHTTP-N/A%20🇸🇪%20SE%205ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0377
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+121.127.46.147-989+%7C+106.5ms
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0317
-vless://VGhpcyBpcyBIRUxM@185.146.173.39:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&encryption=none&host=uss.sharkpv.ir&type=xhttp#🆔vless_config%20🔓%20VL-XHTTP-N/A%20🇸🇪%20SE%2014ms
+ss://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0332
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20244ms
+vless://VGhpcyBpcyBIRUxM@185.146.173.39:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&encryption=none&host=uss.sharkpv.ir&type=xhttp#🆔vless_config%20🔓%20VL-XHTTP-N/A%20🇸🇪%20SE%205ms
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
+vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=09#REALITY|SE🇸🇪
