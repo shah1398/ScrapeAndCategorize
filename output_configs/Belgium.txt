@@ -1,2 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0287
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0292🤯
+ss://4b5261b0-efc1-8002-ebf3-21176f7eedcb@be-maxicopmany-332654.need9ping.ir:5901?encryption=none&security=none&type=tcp&headerType=none#BE🇧🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0294
+vless://4b5261b0-efc1-8002-ebf3-21176f7eedcb@be-maxicopmany-332654.need9ping.ir:5901?encryption=none&security=none&type=tcp&headerType=none#BE🇧🇪
