@@ -1,3 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0244
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#SK%F0%9F%87%B8%F0%9F%87%B0+%7C+156.146.40.194-989+%7C+153.98ms
+ss://6ad00faa-edef-42c8-b63b-e9a4f9ace827@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0249
+ss://e26f9fb5-248f-4f04-8bf4-2476aad2aa4c@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
+ss://e26f9fb5-248f-4f04-8bf4-2476aad2aa4c@5.35.103.218:2083?security=none&encryption=none&headerType=none&type=tcp#SK🇸🇰
 trojan://1UUks8qp3f@46.62.153.8:443?mode=auto&path=%2F&security=reality&pbk=1DT1gbnx43QGMYoBkam0b9fzSd00qghvlrmbdO-WaHc&fp=chrome&spx=%2F&type=xhttp&sni=eset.com&sid=9bbb8aa1afa8e9#REALITY|SK🇸🇰
+vless://6ad00faa-edef-42c8-b63b-e9a4f9ace827@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
+vless://e26f9fb5-248f-4f04-8bf4-2476aad2aa4c@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
+vless://e26f9fb5-248f-4f04-8bf4-2476aad2aa4c@5.35.103.218:2083?security=none&encryption=none&headerType=none&type=tcp#SK🇸🇰
