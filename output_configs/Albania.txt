@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+103.167.234.75-8443+%7C+168.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+93.123.46.84-8443+%7C+164.27ms
+ss://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#🆔soskeynet%20🔒%20VL-TCP-%20🇦🇱%20AL%20180ms
+vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#🆔soskeynet%20🔒%20VL-TCP-%20🇦🇱%20AL%20180ms
