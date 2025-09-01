@@ -1,0 +1,2 @@
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.249.106.190:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=%2F#🆔soskeynet%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.249.106.190:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=%2F#🆔soskeynet%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
