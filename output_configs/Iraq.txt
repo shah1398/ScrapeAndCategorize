@@ -1,0 +1,2 @@
+ss://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@193.56.135.85:27888?security=reality&encryption=none&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#REALITY|IQ🇮🇶
+vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@193.56.135.85:27888?security=reality&encryption=none&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#REALITY|IQ🇮🇶
