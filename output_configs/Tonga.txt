@@ -1,2 +1,4 @@
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+ss://fd0e8d0d-d968-4538-8e51-5c86beb62d8c@91.107.255.101:18621?type=tcp&encryption=none&security=reality&pbk=jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA&fp=chrome&sni=google.com&sid=bc&spx=%2F#Tel%3A%20v2socket%20--%3E%2020GB%3D%2070%2C000%20TO
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+vless://fd0e8d0d-d968-4538-8e51-5c86beb62d8c@91.107.255.101:18621?type=tcp&encryption=none&security=reality&pbk=jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA&fp=chrome&sni=google.com&sid=bc&spx=%2F#Tel%3A%20v2socket%20--%3E%2020GB%3D%2070%2C000%20TO
