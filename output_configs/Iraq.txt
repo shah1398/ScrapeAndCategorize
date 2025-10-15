@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS3Z0N0NRaFQ2ZVVudFhENWlCMGtl@81.90.31.219:443#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.31.219-443+%7C+125.17ms
+ss://0d304394-b977-428e-bc75-37f2595b792c@eng27.openbypass.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.halfords.com#👉🆔@freenettir📡🇮🇶®️Iraq©️Baghdad🅿️ping:42.38ms
+vless://0d304394-b977-428e-bc75-37f2595b792c@eng27.openbypass.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.halfords.com#👉🆔@freenettir📡🇮🇶®️Iraq©️Baghdad🅿️ping:42.38ms
