@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.169-58080+%7C+93.44ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.169-58080+%7C+155.52ms
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#IQ🇮🇶
