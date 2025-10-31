@@ -1,0 +1,2 @@
+ss://f90892dd-4ae2-403c-a159-6b42583537cf@180.149.44.235:2149?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
+vless://f90892dd-4ae2-403c-a159-6b42583537cf@180.149.44.235:2149?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
