@@ -1,5 +1,7 @@
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hNakkwTWclM0QlM0Q6@115.161.136.145:10099#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇰🇷%20KR%20216ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+115.161.136.145-10099+%7C+154.2ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0383
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0380
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IktSXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IHwgMTQwLjIzOC4yLjI1MC00NDMgfCAxMzEuMzltcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hNakkwTWclM0QlM0Q6@115.161.136.145:10099#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇰🇷%20KR%20178ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0303
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0309
+ss://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#REALITY|KR🇰🇷
+ss://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#REALITY|KR🇰🇷
+vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.ebay.com&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&fp=chrome#REALITY|KR🇰🇷
+vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#REALITY|KR🇰🇷
