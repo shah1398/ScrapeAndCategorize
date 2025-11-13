@@ -1,4 +1,4 @@
-ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.89.55.30:443?security=reality&encryption=none&pbk=OjiMX0SsjSJlG-pEfs1OCZFClBvmk3Z1lxRWLtnAs24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=078498d8#REALITY|RS🇷🇸
 ss://96eb0aac-b747-4f3c-8c30-d2ff7ec7415c@38.180.17.232:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=h_qOyi3Y79o7yw9WaMZY1CxtDlu4f6F1bIxqYTH11R4&sid=3e#REALITY|RS🇷🇸
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.89.55.30:443?security=reality&encryption=none&pbk=OjiMX0SsjSJlG-pEfs1OCZFClBvmk3Z1lxRWLtnAs24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=078498d8#REALITY|RS🇷🇸
+ss://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?security=none&encryption=none&headerType=none&type=tcp#RS🇷🇸
 vless://96eb0aac-b747-4f3c-8c30-d2ff7ec7415c@38.180.17.232:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=h_qOyi3Y79o7yw9WaMZY1CxtDlu4f6F1bIxqYTH11R4&sid=3e#REALITY|RS🇷🇸
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?security=none&encryption=none&headerType=none&type=tcp#RS🇷🇸
