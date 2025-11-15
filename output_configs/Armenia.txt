@@ -1,6 +1,8 @@
 ss://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6Gaming1111.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#AM🇦🇲
-ss://687264a2-fca0-41bd-9a61-ff6feccf7fda@85.90.207.47:33727?security=&encryption=none&headerType=http&type=tcp#AM🇦🇲
-ss://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🆔madshopx%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
+ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?encryption=none&security=none&type=tcp&headerType=http#%40ExpressV2ray_Bot%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
+ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
+ss://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=cdn.newyear.mail.ru&fp=chrome&allowInsecure=1&type=ws&path=%2F#AM🇦🇲
 vless://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6Gaming1111.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#AM🇦🇲
-vless://687264a2-fca0-41bd-9a61-ff6feccf7fda@85.90.207.47:33727?security=&encryption=none&headerType=http&type=tcp#AM🇦🇲
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🆔madshopx%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
+vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?encryption=none&security=none&type=tcp&headerType=http#%40ExpressV2ray_Bot%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
+vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=cdn.newyear.mail.ru&fp=chrome&allowInsecure=1&type=ws&path=%2F#AM🇦🇲
