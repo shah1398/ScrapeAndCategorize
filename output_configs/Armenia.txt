@@ -1,6 +1,10 @@
-ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&headerType=http&type=tcp#%40skiVpn%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
-ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20167ms
-ss://3855723f-0260-4014-9225-4b0025f1768c@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20160ms
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&headerType=http&type=tcp#%40skiVpn%20%7C%7C%20Armenia%20GAMING%20%F0%9F%87%A6%F0%9F%87%B2
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20167ms
-vless://3855723f-0260-4014-9225-4b0025f1768c@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20160ms
+ss://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6Gaming1111.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#AM🇦🇲
+ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20301ms
+ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20313ms
+ss://3855723f-0260-4014-9225-4b0025f1768c@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#AM🇦🇲
+ss://687264a2-fca0-41bd-9a61-ff6feccf7fda@85.90.207.47:33727?security=&encryption=none&headerType=http&type=tcp#AM🇦🇲
+vless://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6Gaming1111.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#AM🇦🇲
+vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20301ms
+vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20313ms
+vless://3855723f-0260-4014-9225-4b0025f1768c@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#AM🇦🇲
+vless://687264a2-fca0-41bd-9a61-ff6feccf7fda@85.90.207.47:33727?security=&encryption=none&headerType=http&type=tcp#AM🇦🇲
