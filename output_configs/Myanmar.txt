@@ -1,0 +1,2 @@
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638973512850402267.kerman-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#mm
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973512850402267.kerman-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#mm

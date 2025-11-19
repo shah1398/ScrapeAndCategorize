@@ -1,5 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aTZXRVhtQjREbTZnMWdZYjNqMWw3N0xPZGVLVDJCNw3D3A==@45.14.246.144:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+45.14.246.144-443+%7C+166.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aTZXRVhtQjREbTZnMWdZYjNqMWw3N0xPZGVLVDJCNw3D3A==@45.14.246.144:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+45.14.246.144-443+%7C+132.35ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&type=grpc#UA🇺🇦
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?mode=gun&security=&encryption=none&type=grpc#UA🇺🇦
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?type=grpc&encryption=none&flow=#UA🇺🇦
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&type=grpc#UA🇺🇦
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?mode=gun&security=&encryption=none&type=grpc#UA🇺🇦
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?type=grpc&encryption=none&flow=#UA🇺🇦
