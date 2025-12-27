@@ -1,10 +1,11 @@
 ss://73872211-fee0-4e37-ba5f-303b0b2998ab@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-ss://76f385df-bb5c-4e92-b60b-fce540b0a6a0@217.12.219.51:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=qq&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c#REALITY|IT🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@176.126.83.158:990#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+176.126.83.158-990+%7C+118.44ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0303
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+38.180.195.193-443+%7C+120ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🇮🇹IT%20%20ROSE—519🤯
+ss://76f385df-bb5c-4e92-b60b-fce540b0a6a0@217.12.219.53:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#REALITY|IT🇮🇹
+ss://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?type=xhttp&encryption=none#IT🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@176.126.83.158:990#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+176.126.83.158-990+%7C+119.18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🇮🇹IT%20%20ROSE—588🤯
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#IT🇮🇹
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?type=tcp&security=tls&allowInsecure=1#IT🇮🇹
 vless://73872211-fee0-4e37-ba5f-303b0b2998ab@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@217.12.219.51:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=qq&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c#REALITY|IT🇮🇹
+vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@217.12.219.53:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#REALITY|IT🇮🇹
+vless://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?type=xhttp&encryption=none#IT🇮🇹
