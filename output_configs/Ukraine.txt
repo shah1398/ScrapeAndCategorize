@@ -1,0 +1,2 @@
+ss://5605e37f-f87f-468f-b562-b6d1c16cc75a@nl.takovpn.ru:443?type=tcp&encryption=none&flow=&sni=sun6-20.userapi.com&fp=chrome&security=reality&pbk=r2-SJzA8X3b0smshnMdHuvAE73xOjh7bTQuJLFczvwk&sid=db0d47ca401c#REALITY|UA🇺🇦
+vless://5605e37f-f87f-468f-b562-b6d1c16cc75a@nl.takovpn.ru:443?type=tcp&encryption=none&flow=&sni=sun6-20.userapi.com&fp=chrome&security=reality&pbk=r2-SJzA8X3b0smshnMdHuvAE73xOjh7bTQuJLFczvwk&sid=db0d47ca401c#REALITY|UA🇺🇦

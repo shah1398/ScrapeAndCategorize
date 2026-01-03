@@ -1,3 +1,5 @@
-ss://YWVzLTEyOC1nY206ZDVkYjE4ZWEtNjVkNy00ZGY1LWJhMTMtMDJlOTQ5YmQwNmJj@hkrelink-g.stand3pro.org:566#CN%F0%9F%87%A8%F0%9F%87%B3+%7C+hkrelink-g.stand3pro.org-566+%7C+534.49ms
+ss://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http%2F1.1&fp=chrome&security=tls#CN🇨🇳
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#%F0%9F%87%A8%F0%9F%87%B3CN%28AzadNet.t.me%29%20%2811
-vmess://eyJhZGQiOiIxMzUuMTI1LjEzNC4xNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6ImQ0NzM0YmQ4LTkwNmItNDQyNi1iOWZmLTlkYmMzODhkNTZkYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJDTlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyB8IHd3dy5iYWlkdS5jb20tNDQzIHwgNjU1LjQ5bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#CN%F0%9F%87%A8%F0%9F%87%B3+%7C+14.18.106.88-6100+%7C+190.45ms
+vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http%2F1.1&fp=chrome&security=tls#CN🇨🇳
+vmess://eyJhZGQiOiIxMzUuMTI1LjEzNC4xNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6ImQ0NzM0YmQ4LTkwNmItNDQyNi1iOWZmLTlkYmMzODhkNTZkYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJDTlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyB8IHd3dy5iYWlkdS5jb20tNDQzIHwgNzMwLjZtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
