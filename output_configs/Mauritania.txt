@@ -1,0 +1,2 @@
+ss://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&type=ws&sni=ziyong.boringdad.netlib.re#dude%20%7C%20mr.Patric
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&type=ws&sni=ziyong.boringdad.netlib.re#dude%20%7C%20mr.Patric
