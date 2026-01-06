@@ -1,4 +1,2 @@
-ss://4ba8695f-ca09-4f1b-b746-57eddc3a4358@ua.whatsmyspeed.ir:42537?security=&encryption=none&host=e1.whatsapp.net&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20302ms
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#REALITY|UA🇺🇦
-vless://4ba8695f-ca09-4f1b-b746-57eddc3a4358@ua.whatsmyspeed.ir:42537?security=&encryption=none&host=e1.whatsapp.net&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20302ms
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#REALITY|UA🇺🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+118.65ms
+vmess://eyJhZGQiOiJzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhIiwiYWlkIjoiMCIsImhvc3QiOiJzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhIiwiaWQiOiI0MTc0Yjk1ZC0xMTVlLTRkMzktYWRkNi0xZjhkYjk1YmI4NjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzZXZTNVOURmMVdHeGdGbm9GUHcxIiwicG9ydCI6IjQ0MyIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhLTQ0MyB8IDM0Ny42MW1zIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
