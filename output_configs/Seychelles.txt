@@ -1,2 +1,6 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+2.58ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+156.244.19.94-11201+%7C+167.53ms
+ss://28174dca-bd3d-410b-b776-92cae7c09e17@fi2.axolab.org:443?type=tcp&encryption=none&sni=api.gosuslugi.ru&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=669d7ae5e1611511#REALITY|SC🇸🇨
+ss://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨
+ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+1.48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+156.244.19.94-11201+%7C+130.34ms
+vless://28174dca-bd3d-410b-b776-92cae7c09e17@fi2.axolab.org:443?type=tcp&encryption=none&sni=api.gosuslugi.ru&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=669d7ae5e1611511#REALITY|SC🇸🇨
+vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨
