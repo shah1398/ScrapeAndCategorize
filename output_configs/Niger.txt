@@ -1,2 +1,0 @@
-ss://807beacd-86f7-4803-b850-f1944605c5fc@185.113.10.132:442?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=firefox&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&sid=fd1dff035d0d8f56#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria
-vless://807beacd-86f7-4803-b850-f1944605c5fc@185.113.10.132:442?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=firefox&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&sid=fd1dff035d0d8f56#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria
