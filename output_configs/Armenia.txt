@@ -1,2 +1,6 @@
+ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
+ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
 ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
+vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
+vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
