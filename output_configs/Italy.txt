@@ -1,12 +1,8 @@
 ss://160cc7e4-1e11-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=lgoin.persianmizban.com&path=%2F#IT🇮🇹
-ss://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#REALITY|IT🇮🇹
-ss://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#REALITY|IT🇮🇹
-ss://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#REALITY|IT🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+176.126.83.158-990+%7C+154.55ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+157.185.130.3-49336+%7C+147.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+176.126.83.158-990+%7C+115.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#🆔soskeynet%20🔒%20SS-TCP-TLS%20🇮🇹%20IT%20down
 ss://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-IT
+ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?type=tcp&encryption=none&flow=&sni=stackoverflow.com&fp=firefox&security=reality&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#REALITY|IT🇮🇹
 vless://160cc7e4-1e11-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=lgoin.persianmizban.com&path=%2F#IT🇮🇹
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#REALITY|IT🇮🇹
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#REALITY|IT🇮🇹
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#REALITY|IT🇮🇹
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-IT
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?type=tcp&encryption=none&flow=&sni=stackoverflow.com&fp=firefox&security=reality&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#REALITY|IT🇮🇹
